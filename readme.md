@@ -5,8 +5,8 @@
 1. **`.env` file**:
    ```env
    PORT=3000
-   USR=administrator
-   PWD=admin
+   USR=Username
+   PWD=ERp_Password
    API_URL=http://erpdemo.deskgoo.com
    ```
 
